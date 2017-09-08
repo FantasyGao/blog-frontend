@@ -38,12 +38,12 @@ mognodb 3.0+
 ```
 ### 简要概述
 
-#### 1. axios模块实现http请求拦截器，配合完成权限控制
-#### 2. vuex集中管理文章数据信息
-#### 3. [iview](https://www.iviewui.com/)开源组件的使用(全局提示框，文件上传组件等)
-#### 4. [mavon-editor](https://github.com/hinesboy/mavonEditor) 模块完成markdown富文本编辑器 
-#### 5. vue-chartjs 完成数据分析的图表展示
-#### 6. smartTable 表格组件使用
+  #### 1. axios模块实现http请求拦截器，配合完成权限控制
+  #### 2. vuex集中管理文章数据信息
+  #### 3. [iview](https://www.iviewui.com/)开源组件的使用(全局提示框，文件上传组件等)
+  #### 4. [mavon-editor](https://github.com/hinesboy/mavonEditor) 模块完成markdown富文本编辑器 
+  #### 5. vue-chartjs 完成数据分析的图表展示
+  #### 6. smartTable 表格组件使用
 
 ### 功能概述
 
