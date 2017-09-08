@@ -43,7 +43,7 @@ mognodb 3.0+
   #### 3. [iview](https://www.iviewui.com/)开源组件的使用(全局提示框，文件上传组件等)
   #### 4. [mavon-editor](https://github.com/hinesboy/mavonEditor) 模块完成markdown富文本编辑器 
   #### 5. vue-chartjs 完成数据分析的图表展示
-  #### 6. smartTable 表格组件使用
+  #### 6. [smartTable]( https://github.com/FantasyGao/vue-smartTable)   表格组件使用
 
 ### 功能概述
 
