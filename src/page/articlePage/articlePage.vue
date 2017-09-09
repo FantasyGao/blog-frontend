@@ -228,7 +228,6 @@ export default {
 .body{
     width:100%;
     font-size:16px;
-    text-indent:1cm;
     word-break:break-all;
     letter-spacing: 0.05em;
     word-spacing: 0.2em;
