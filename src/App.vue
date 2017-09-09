@@ -43,4 +43,11 @@ pre code {
 	background: #3b3838;
     color: #5dd7d1;
 }
+.body table{
+	width: 80%
+}
+.body table th,
+.body table td {
+    border: 1px solid #928787 !important;
+  }
 </style>

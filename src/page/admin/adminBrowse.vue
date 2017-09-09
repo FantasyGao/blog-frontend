@@ -14,7 +14,7 @@
             </div>
             <div class="tag">
                 <div class="tags">tags:</div>
-                <div class="tagDetail"><tag :tags="articleInfo.tags"></tag></div>
+                <div class="tagDetail"><tag :tags="articleInfo.tag"></tag></div>
             </div>
             <div class="body">
                 <p v-html="articleInfo.content"></p>
