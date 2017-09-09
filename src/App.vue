@@ -28,9 +28,9 @@ export default {
 }
 @media screen and (min-width: 770px){
 	img {
-	    width:50%;
+	    width:80%;
 	    border-radius: 10px; 
-	    margin-left: 20%;
+	    margin-left: 10%;
 	    border:  5px solid #675e5e;
 	}
 }
