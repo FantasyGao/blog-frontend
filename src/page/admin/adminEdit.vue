@@ -50,7 +50,7 @@
                 :before-upload="handleBeforeUpload"
                 type="drag"
                 name="articleImage"
-                action="../api/api/upload"
+                action="../../api/api/upload"
                 style="display: inline-block;width:58px;">
                 <div style="width: 58px;height:58px;line-height: 58px;">
                     <Icon type="camera" size="20"></Icon>
@@ -69,7 +69,7 @@
                 :max-size="5130"
                 :on-success="filehandleSuccess"
                 :on-exceeded-size="filehandleMaxSize"
-                action="../api/api/upload">
+                action="../../api/api/upload">
                 <Button type="ghost" icon="ios-cloud-upload-outline">上传文件</Button>
             </Upload>
             <Input class="classic" v-model="fileUrl" placeholder="文件路径..." >
