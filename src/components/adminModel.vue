@@ -18,7 +18,9 @@
           <td>{{articleInfo.title}}</td>
           <td>{{articleInfo.time}}</td>
           <td>{{articleInfo.classic}}</td>
-          <td>{{articleInfo.tag}}</td>
+          <td>
+            <ol><li v-for = "tag in articleInfo.tag">{{tag.tagName}}</li></ol>
+          </td>
           <td>{{articleInfo.author}}</td>
           <td>{{articleInfo.pv}}</td>
           <td>{{articleInfo.markNum}}</td>
