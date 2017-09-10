@@ -132,7 +132,7 @@ export default {
     ...mapState({
       tagList: state => state.indexPageList.tagList,
       articleList: state => state.indexPageList.articleList,
-      AllArticleList: state => state.indexPageList.AllArticleList
+      AllArticleList: state => state.indexPageList.allArticleList
     })
   },
   mounted () {
