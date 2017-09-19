@@ -229,10 +229,10 @@ export default {
     width:100%;
     font-size:16px;
     word-break:break-all;
-    letter-spacing: 0.05em;
+    letter-spacing: 0.06em;
     word-spacing: 0.2em;
     margin-top: 1em;
-    line-height: 180%;
+    line-height: 200%;
     padding-top:15px;
     padding-bottom:30px;
     border-top:1px solid #968e8e;
